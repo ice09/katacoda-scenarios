@@ -10,11 +10,6 @@
         "text": "pre.md"
       }
     ],
-    "assets": {
-      "host01": [
-          {"file": "crypyapi-0.0.1.jar", "target": "/home/scrapbook/tutorial/", "chmod": "+x"}
-      ]
-    },
     "intro": {
       "text": "intro.md"
     },
