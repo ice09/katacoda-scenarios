@@ -12,7 +12,7 @@ Start demo:
 
 `java -jar crypyapi-0.0.4.jar`{{execute}}
 
-![trxid](/katacode-scenarios/assets/trxid.png)
+![trxid](assets/trxid.png)
 
 Note down the address and transaction identifier and create a transaction in Burnerwallet.
 
