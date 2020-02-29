@@ -29,3 +29,4 @@ Note down the address and transaction identifier and create a transaction in Bur
 ![result](/katacoda-scenarios/assets/result.png)
 
 That's it, you just paid a machine for a cheap joke, congratulations!
+
