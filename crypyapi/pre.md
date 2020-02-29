@@ -10,4 +10,4 @@ Start demo:
 
 Note down the address and transaction identifier and create a transaction in Burnerwallet.
 
-![mew](/katacoda-examples/scenarios/crypyapi-demo/assets/sign-mew.jpg)
+![mew](/crypyapi/assets/sign-mew.jpg)
