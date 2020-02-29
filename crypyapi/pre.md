@@ -11,7 +11,7 @@
 
 `java -jar crypyapi-0.0.4.jar`{{execute}}
 
-* Note down the address and transaction identifier..
+* Note down the address and transaction identifier.
 
 ![trxid](assets/trxid.png)
 
@@ -23,7 +23,7 @@
 
 ![bwallet](assets/bwallet.png)
 
-* Watch the best Chuck Norris joke ever after the payment could be successfully correlated to the request
+* Watch the best Chuck Norris joke ever after the payment could be successfully correlated to the transaction identifier.
 
 ![result](assets/result.png)
 
