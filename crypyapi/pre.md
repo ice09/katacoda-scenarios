@@ -10,4 +10,4 @@ Start demo:
 
 Note down the address and transaction identifier and create a transaction in Burnerwallet.
 
-![mew](/katacoda-scenarios/assets/sign-mew.png)
+![mew](assets/sign-mew.png)
