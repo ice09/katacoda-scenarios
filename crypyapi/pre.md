@@ -1,7 +1,5 @@
 
-## Prerequisites
-
-* Installed MetaMask, configured for xDai network id 100 with at least 0.01 XDAI balance
+* Installed MetaMask (http://metamask.io), configured for xDai network (ID 100) with at least 0.01 XDAI balance
 
 ## Start Chuck Norris Joking Machine
 
@@ -13,7 +11,7 @@
 
 `java -jar crypyapi-0.0.4.jar`{{execute}}
 
-* Note down the address and transaction identifier and create a transaction in Burnerwallet.
+* Note down the address and transaction identifier..
 
 ![trxid](assets/trxid.png)
 
@@ -21,7 +19,7 @@
 
 ![mew](assets/sign-mew.png)
 
-* Send 0.0001 XDAI to the address with the signed transaction identifier
+* Send 0.0001 XDAI to the address with the signed transaction identifier in Burnerwallet (https://xdai.io)
 
 ![bwallet](assets/bwallet.png)
 
