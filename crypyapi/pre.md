@@ -9,3 +9,5 @@ Start demo:
 `java -jar crypyapi-0.0.4.jar`{{execute}}
 
 Note down the address and transaction identifier and create a transaction in Burnerwallet.
+
+![mew](/katacoda-examples/scenarios/crypyapi-demo/assets/sign-mew.jpg)
