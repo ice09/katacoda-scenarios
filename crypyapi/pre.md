@@ -10,4 +10,4 @@ Start demo:
 
 Note down the address and transaction identifier and create a transaction in Burnerwallet.
 
-![mew](/crypyapi/assets/sign-mew.jpg)
+![mew](sign-mew.jpg)
