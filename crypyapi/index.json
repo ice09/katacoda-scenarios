@@ -15,6 +15,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "java11"
+    "imageid": "java8"
   }
 }
