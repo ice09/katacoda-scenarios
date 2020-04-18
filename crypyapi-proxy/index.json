@@ -1,0 +1,28 @@
+{
+  "title": "Payable APIs with xDai",
+  "description": "Payable API \"crypyAPI\" (/kraɪ pai ˌeɪ pɪː ˈaɪ/) with xDai",
+  "difficulty": "Beginner",
+  "time": "20 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Prerequisites",
+        "text": "pre.md"
+      }
+    ]
+  },
+  "environment": {
+    "uilayout": "terminal-terminal-split-v1",
+    "uidependencies": [
+      "/socket.io/socket.io.js",
+      "/javascripts/term.js",
+      "/javascripts/terminal-application.js"
+    ],
+    "hideintro": false,
+    "hidefinish": false,
+    "showide": false
+  },
+  "backend": {
+    "imageid": "java8"
+  }
+}
