@@ -1,5 +1,5 @@
 {
-  "title": "Payable APIs with xDai",
+  "title": "Payable APIs with xDai (Proxy Version)",
   "description": "Payable API \"crypyAPI\" (/kraɪ pai ˌeɪ pɪː ˈaɪ/) with xDai",
   "difficulty": "Beginner",
   "time": "20 minutes",
@@ -12,15 +12,7 @@
     ]
   },
   "environment": {
-    "uilayout": "terminal-terminal-split-v1",
-    "uidependencies": [
-      "/socket.io/socket.io.js",
-      "/javascripts/term.js",
-      "/javascripts/terminal-application.js"
-    ],
-    "hideintro": false,
-    "hidefinish": false,
-    "showide": false
+    "uilayout": "terminal-terminal-split-v1"
   },
   "backend": {
     "imageid": "java8"
