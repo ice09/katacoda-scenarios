@@ -5,11 +5,11 @@
 
 * Download latest version of demo.
 
-`curl -s https://api.github.com/repos/ice09/crypyapi-demo/releases/latest | grep "crypyapi-0.0.6.jar" | cut -d : -f 2,3| tr -d \" | wget -qi -`{{execute}}
+`curl -s https://api.github.com/repos/ice09/crypyapi-demo/releases/latest | grep "crypyapi-0.0.7.jar" | cut -d : -f 2,3| tr -d \" | wget -qi -`{{execute}}
 
 * Start demo.
 
-`java -jar crypyapi-0.0.6.jar`{{execute}}
+`java -jar crypyapi-0.0.7.jar`{{execute}}
 
 * Note down the address and transaction identifier.
 
